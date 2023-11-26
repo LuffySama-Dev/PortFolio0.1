@@ -7,10 +7,10 @@
 ## Table of Contents
 
 - [About](#about)
-- [Skill](#skill)
+- [Skills](#skills)
 
 ## About <a name = "about"></a>
 
-** Hey **
+**Hey**
 
-## About <a name = "about"></a>
+## Skills <a name = "skills"></a>
